@@ -1,0 +1,5 @@
+git init //intitalisation of git repesitory
+git remote add origin urlpaste //upload
+git add .//add
+git commit -m "massage"//local
+git push origin master //
